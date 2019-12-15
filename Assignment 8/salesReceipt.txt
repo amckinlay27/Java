@@ -1,0 +1,6 @@
+***Sale Receipt***
+Unit price: $34.95
+Quantity: 3
+Subtotal: $104.85
+Tax: $6.29
+Total: $111.14
