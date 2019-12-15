@@ -1,0 +1,341 @@
+run:
+Creating Tree...
+SOT...
+wound 1
+work 1
+with 1
+which 2
+when 2
+was 1
+up 1
+took 2
+together 2
+to 5
+times 1
+they 2
+then 1
+them 2
+their 1
+the 11
+that 6
+than 2
+team 1
+suggested 1
+such 3
+subatomic 1
+studying 1
+studied 1
+speeds 1
+sometimes 1
+so 2
+smash 2
+shown 1
+showed 1
+scientists 1
+resulted 1
+researchers 2
+research 1
+releasing 1
+released 1
+release 1
+quickly 1
+quarks 6
+properties 1
+pieces 1
+parts 2
+particular 1
+particles 2
+other 2
+one 3
+on 1
+of 3
+net 1
+much 1
+move 1
+more 3
+learn 1
+it 2
+is 1
+involved 1
+into 4
+in 2
+hydrogen 1
+high 1
+heavier?calculations 1
+have 1
+has 2
+fusion 1
+fusing 3
+fuse 2
+from 1
+found 3
+forces 1
+force 1
+focused 1
+finding 1
+energy 1
+eight 1
+each 2
+during 1
+doubly 1
+doing 1
+disassociated 1
+configuration 1
+components 1
+component 1
+come 1
+collider 1
+collide 1
+cause 1
+called 2
+calculated 1
+by 1
+but 2
+bottom 1
+be 2
+baryons 1
+baryon 1
+atoms 3
+at 2
+are 2
+approximately 2
+apart 1
+another 2
+and 1
+amount 1
+also 2
+allowing 1
+about 1
+a 3
+To 1
+Those 1
+Prior 2
+MeV 4
+Large 1
+Intrigued 1
+In 1
+Hadron 1
+Doing 1
+Collider 1
+230 1
+138 1
+130 1
+12 1
+The tree is AVL complaint:  true
+
+Deleting From Tree...
+Delete: learn
+Delete: more
+Delete: Large
+Delete: Hadron
+Not Found: Hadron
+Delete: move
+Delete: high
+Not Found: high
+Delete: into
+Not Found: into
+Delete: Doing
+Delete: forces
+Not Found: forces
+Delete: disassociated
+Not Found: disassociated
+Delete: from
+Not Found: from
+Delete: each
+Not Found: each
+Delete: have
+Not Found: have
+Delete: found
+Not Found: found
+Delete: has
+Not Found: has
+Delete: in
+Not Found: in
+Delete: into
+Not Found: into
+Delete: each
+Not Found: each
+Delete: fusing
+Not Found: fusing
+Delete: into
+Not Found: into
+Delete: has
+Not Found: has
+Delete: energy
+Not Found: energy
+Delete: is
+Not Found: is
+Delete: involved
+Not Found: involved
+Delete: fuse
+Not Found: fuse
+Delete: In
+Not Found: In
+Delete: fusing
+Not Found: fusing
+Delete: doubly
+Not Found: doubly
+Delete: found
+Not Found: found
+Delete: it
+Not Found: it
+Delete: MeV
+Not Found: MeV
+Delete: force
+Not Found: force
+Delete: into
+Not Found: into
+Delete: found
+Not Found: found
+Delete: fusing
+Not Found: fusing
+Delete: MeV
+Not Found: MeV
+Delete: more
+Not Found: more
+Delete: Intrigued
+Not Found: Intrigued
+Delete: finding
+Not Found: finding
+Delete: focused
+Not Found: focused
+Delete: much
+Delete: heavier?calculations
+Not Found: heavier?calculations
+Delete: it
+Not Found: it
+Delete: MeV
+Not Found: MeV
+Delete: fuse
+Not Found: fuse
+Delete: doing
+Not Found: doing
+Delete: in
+Not Found: in
+Delete: net
+Delete: MeV
+Not Found: MeV
+Delete: eight
+Not Found: eight
+Delete: more
+Not Found: more
+Delete: during
+Not Found: during
+Delete: hydrogen
+Not Found: hydrogen
+SOT...
+wound 1
+work 1
+with 1
+which 2
+when 2
+was 1
+up 1
+took 2
+together 2
+to 5
+times 1
+they 2
+then 1
+them 2
+their 1
+the 11
+that 6
+than 2
+team 1
+suggested 1
+such 3
+subatomic 1
+studying 1
+studied 1
+speeds 1
+sometimes 1
+so 2
+smash 2
+shown 1
+showed 1
+scientists 1
+resulted 1
+researchers 2
+research 1
+releasing 1
+released 1
+release 1
+quickly 1
+quarks 6
+properties 1
+pieces 1
+parts 2
+particular 1
+particles 2
+other 2
+one 3
+on 1
+of 3
+atoms 3
+it 2
+is 1
+involved 1
+into 4
+in 2
+hydrogen 1
+high 1
+heavier?calculations 1
+have 1
+has 2
+fusion 1
+fusing 3
+fuse 2
+from 1
+found 3
+forces 1
+force 1
+focused 1
+finding 1
+energy 1
+eight 1
+each 2
+during 1
+doubly 1
+doing 1
+disassociated 1
+configuration 1
+components 1
+component 1
+come 1
+collider 1
+collide 1
+cause 1
+called 2
+calculated 1
+by 1
+but 2
+bottom 1
+be 2
+baryons 1
+baryon 1
+about 1
+at 2
+are 2
+approximately 2
+apart 1
+another 2
+and 1
+amount 1
+also 2
+allowing 1
+130 1
+a 3
+To 1
+Those 1
+Prior 2
+MeV 4
+230 1
+Intrigued 1
+In 1
+Hadron 1
+12 1
+Collider 1
+138 1
+The tree is AVL complaint:  true
+BUILD SUCCESSFUL (total time: 0 seconds)
